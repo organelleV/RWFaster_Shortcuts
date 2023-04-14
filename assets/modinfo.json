@@ -1,0 +1,11 @@
+{
+	"id": "FasterShortcuts",
+	"name": "Faster Shortcuts",
+	"version": "1.0.1",
+	"authors": "Uten",
+	"description": "Speeds up room transitions and provides a config menu for customizing speed.\n\nSource:github.com/wdwadwd",
+	"requirements": [],
+	"requirements_names": [],
+	"tags": ["Game Mechanics", "Accessibility"],
+	"checksum_override_version": false
+}

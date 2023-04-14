@@ -1,0 +1,5 @@
+Credit:
+https://github.com/Dual-Iron/catnap (MainLoopProcess_RawUpdate) method to change tick rate
+https://github.com/Dual-Iron/TestMod.git example project used as base
+https://github.com/SchuhBaum/SBCameraScroll/blob/Rain-World-v1.9/SourceCode/MainModOptions.cs options script
+https://github.com/forthbridge/faster-gates/blob/main/src/Options.cs options script
